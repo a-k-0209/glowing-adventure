@@ -33,7 +33,7 @@ Below is a screenshot of the **PolyAgent Streamlit app** interface:
 ## Future Work
 
 - Extend PolyAgent with web search capabilities.  
-- Integrate stock data tools to create a “PolyAgent Pro” version.  
+- Integrate more tools to create a “PolyAgent Pro” version.  
 - Expand support for multi-tool workflows to handle more complex tasks intelligently.
 
 ---
